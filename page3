@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tendances Futures en VR et IA</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Tendances Futures en VR et IA</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Accueil</a></li>
+                <li><a href="page1.html">Technologie VR</a></li>
+                <li><a href="page2.html">IA dans la VR</a></li>
+                <li><a href="page3.html">Tendances Futures</a></li>
+                <li><a href="page4.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Vers de nouvelles frontières</h2>
+            <p>L'évolution rapide de l'IA et de la VR ouvre des perspectives fascinantes pour le futur.</p>
+        </section>
+        <section class="image-section">
+            <img src="ia.jpg" alt="Hologramme AI">
+            <p><strong>Réalité mixte (MR)</strong> : La combinaison de la réalité virtuelle et augmentée pour créer des environnements interactifs qui intègrent des éléments réels.<p>
+            <p><strong>Metaverse</strong> :L'émergence d'un univers virtuel global, connecté, où les utilisateurs peuvent interagir, travailler, jouer et socialiser.<p>
+            <p><strong>Haptique avancée</strong> : L'évolution des technologies de retour tactile pour une sensation physique dans les environnements virtuels.</p>
+            </section>
+        </section>
+    </main>
+</body>
+</html>
